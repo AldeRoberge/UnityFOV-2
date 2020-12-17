@@ -60,7 +60,7 @@ public class FieldOfView : MonoBehaviour
             // Get current angle
             float angle = transform.eulerAngles.y - viewAngle / 2 + stepAngleSize * i;
 
-            Debug.DrawLine(transform.position, transform.position + DirFromAngle(angle, true) * viewRadius, Color.green);
+            //Debug.DrawLine(transform.position, transform.position + DirFromAngle(angle, true) * viewRadius, Color.green);
 
             ViewCastInfo newViewCast = ViewCast(angle);
 

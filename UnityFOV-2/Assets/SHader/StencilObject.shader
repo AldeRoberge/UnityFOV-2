@@ -12,10 +12,11 @@
         Tags { "RenderType"="Opaque" }
         LOD 200
 
-        
+      
         Stencil {
             Ref 1
             
+            // Include opposite of StencilMask
             Comp NotEqual    
         }
         

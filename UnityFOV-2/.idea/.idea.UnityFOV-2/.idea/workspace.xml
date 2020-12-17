@@ -20,11 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8de6a02d-4619-402d-9393-fb19f7b95204" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Ground.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ground.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Obstacle.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Obstacle.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UnityFOV-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnityFOV-2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Controller.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Controller.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FieldOfView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FieldOfView.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/SHader/StencilObject.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SHader/StencilObject.shader" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Target.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Target.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ViewBlock.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ViewBlock.mat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +45,7 @@
         <option value="$PROJECT_DIR$/Assets/Editor/FieldOfViewEditor.cs" />
         <option value="$PROJECT_DIR$/Assets/SHader/StencilMask.shader" />
         <option value="$PROJECT_DIR$/Assets/FieldOfView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Controller.cs" />
         <option value="$PROJECT_DIR$/Assets/SHader/StencilObject.shader" />
       </list>
     </option>
