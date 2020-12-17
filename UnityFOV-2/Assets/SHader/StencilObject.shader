@@ -16,7 +16,7 @@
         Stencil {
             Ref 1
             
-            Comp equal    
+            Comp NotEqual    
         }
         
         CGPROGRAM
